@@ -2,7 +2,7 @@
 
 This organization is a place for those involved with cloud technologies at the University of Illinois to share their code and information on their pojects.  
 
-This repository (projects-and-research) is a place for people to share information on their projects that deal with cloud technologies. We're starting from a simple approach. Just add a Markdown page ( https://guides.github.com/features/mastering-markdown/ ) with information and links about your project.   
+This repository (projects-and-research) is a place for people at the University of Illinois to share information on their projects that deal with cloud technologies. We're starting from a simple approach. Just add a Markdown page ( https://guides.github.com/features/mastering-markdown/ ) with information and links about your project.   
 
 ## Agreement for end-users of this organization and repository
 
