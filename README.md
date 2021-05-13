@@ -12,6 +12,10 @@ All end users must review and agree to the terms outlined in the End User Servic
 
 ## Adding a new repository
 
+By default we have dependabot running on any newly created repository.  At the moment, members can create private or University of Illinois-only repositories and Adminsitrators can make those projects public.
+
+
 ## TODOs
 
   * Create a template page to help people get started.
+  * Create instructions on how to request an invite to the org
