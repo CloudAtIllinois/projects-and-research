@@ -8,6 +8,11 @@ This repository (projects-and-research) is a place for people at the University 
 
 All end users must review and agree to the terms outlined in the End User Service Agreement.  https://answers.uillinois.edu/systemoffices/102098
 
+## Request to be a member
+
+Please fill out the [membership request form]( https://forms.illinois.edu/sec/485553031 ) 
+
+
 ## Adding to this repository
 
 ## Adding a new repository
@@ -15,7 +20,7 @@ All end users must review and agree to the terms outlined in the End User Servic
 By default we have dependabot running on any newly created repository.  At the moment, members can create private or University of Illinois-only repositories and Adminsitrators can make those projects public.
 
 
+
 ## TODOs
 
   * Create a template page to help people get started.
-  * Create instructions on how to request an invite to the org
